@@ -1,8 +1,23 @@
 {
-  "name": "persian-tools",
-  "version": "0.0.1",
-  "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14"
-  }
+    "name": "@derambakht/persian-tools",
+    "version": "0.0.3",
+    "peerDependencies": {
+        "@angular/common": "^8.2.14",
+        "@angular/core": "^8.2.14"
+    },
+    "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.",
+    "main": "karma.conf.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/derambakht/AngularPersianTools.git"
+    },
+    "author": "Mohsen Derambakht",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/derambakht/AngularPersianTools/issues"
+    },
+    "homepage": "https://github.com/derambakht/AngularPersianTools#readme"
 }
